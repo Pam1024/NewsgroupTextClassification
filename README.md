@@ -1,5 +1,7 @@
 # NewsgroupTextClassification
 
+It's group project for The Process of Data Science Course. (two people project). 
+
 dataset: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
 
 *  **Collocation extraction**. 
